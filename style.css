@@ -131,6 +131,7 @@ td ,th {
 /*css da página principal*/
 .Banner{
   width: 100%;
+  height: 700px;
 }
 .titulo-principal{
   text-align: center;
